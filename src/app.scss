@@ -1,8 +1,9 @@
 $color_titles: gold;
 $color_paragraphs: coral;
+$color_background: lightblue;
 
 body {
-  background-color: lightblue;
+  background-color: $color_background;
 }
 
 h2 {
